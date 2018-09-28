@@ -2,4 +2,3 @@
 Hey turkey's  - here is the first line
 What is brown and sticky?
 chocolate or poop
-solution: do the lick test!
